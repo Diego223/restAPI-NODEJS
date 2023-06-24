@@ -1,0 +1,80 @@
+
+
+.containertable1{
+    display: flex;
+    text-align: center;
+    justify-items: center;
+    
+}
+
+.paistable1
+{   
+    width: 7.5%;
+    font-weight: bold;
+    padding: 0.50rem;
+    margin-left: 0.25%;
+    border: 1px solid black;
+}
+
+.nompaistable1{
+    width: 7.5%;
+    
+    padding: 0.50rem;;
+    border: 1px solid black;
+
+}
+
+.titlecontainer{
+    align-items: center;
+    display: flex;
+    justify-items: center;
+}
+ .title{
+    padding: 0.50rem;
+    margin-left: 3%;
+    margin-top: 0.5%;
+    text-decoration: underline;
+ }
+
+#title1{
+    font-size: 1.75rem;
+    font-weight: bold;
+    padding: 0.50rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    margin-left: 3%;
+    color: blue;
+}
+
+#title2{
+    font-size: 1.75rem;
+    font-weight: bold;
+    padding: 0.50rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    margin-left: 3%;
+    color: red;
+}
+
+#title3{
+    font-size: 1.75rem;
+    font-weight: bold;
+    padding: 0.50rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    margin-left: 3%;
+    color: green;
+}
+
+#titlecontainer3{
+    margin-left: 0;
+}
+
+.titlecontainer3{
+    
+        padding: 0.50rem;
+        font-size: 1.16rem;
+        margin-top: 0.5%;
+        text-decoration: underline;
+     
+}
